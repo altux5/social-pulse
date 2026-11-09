@@ -31,6 +31,18 @@
       "expo-router",
       "expo-status-bar",
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "3f3806a0-0144-4c25-9092-0efdac01e0b2"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/3f3806a0-0144-4c25-9092-0efdac01e0b2"
+    }
   }
 }

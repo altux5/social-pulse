@@ -39,3 +39,6 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# raw screenshots (framed/ and showcase/ are committed)
+/screenshots/*.png
